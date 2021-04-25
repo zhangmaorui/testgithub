@@ -4,10 +4,7 @@
  */
 public class helloword {
     public static void main(String[] args) {
-        System.out.println("hello git add 暂存区");
-        System.out.println("hello git add 暂存区");
-        System.out.println("hello git add 暂存区");
-        System.out.println("hello git add 暂存区");
-        System.out.println("hello git add 暂存区");
-    }
-}
+
+        System.out.println("分支master更新111");
+        System.out.println("分支dev更新111");
+    }}
